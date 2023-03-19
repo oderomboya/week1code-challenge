@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+gap: 20px;
+
+ }   
+.student{
+    width: 100%;
+    border: 3px solid black;
+    text-align: center;
+}
+
+.speedDetector{
+    width: 100%;
+    border: 3px solid black;
+    text-align: center;
+
+}
+
+.netsalary{
+    width: 100%;
+    border: 3px solid black;
+    text-align: center;
+    }
